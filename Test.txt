@@ -1,1 +1,1 @@
-This is the text file to learn git.
+This is the text file to learn git. Changes made.
